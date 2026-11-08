@@ -1,4 +1,4 @@
-# Malverde Software
+# MalverdeSoftware
 
 Indigenous-led software for community and research activities. The tools are
 built for community-based participatory research (CBPR): no participant
@@ -7,17 +7,17 @@ ready for analysis.
 
 ## Tools
 
-**ChoachoakteVote**: sticky-note voting for groups. Participants join from a
+**mVote**: sticky-note voting for groups. Participants join from a
 link or QR code without an account and vote on a set of items, such as
 candidate survey variables. Results export as a structured dataset rather
 than a screenshot.
-Live: [choachoaktevote.delasierra.io](https://choachoaktevote.delasierra.io)
+Live: [mvote.app](https://mvote.app)
 
-**ChoachoaktePile**: card sorting. Each participant groups cards on their own
+**mPile**: card sorting. Each participant groups cards on their own
 phone or computer. Responses are sealed in the participant's browser, so the
 site stores only data it cannot read, and deletes it when the session is
 closed or expires.
-Live: [choachoaktepile.delasierra.io](https://choachoaktepile.delasierra.io)
+Live: [mpile.app](https://mpile.app)
 
 Both are early releases.
 
