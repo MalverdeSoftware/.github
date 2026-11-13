@@ -11,15 +11,16 @@ ready for analysis.
 link or QR code without an account and vote on a set of items, such as
 candidate survey variables. Results export as a structured dataset rather
 than a screenshot.
-Live: [mvote.app](https://mvote.app)
+Live: [mvote.app](https://mvote.app) · Source: [MalverdeSoftware/mvote](https://github.com/MalverdeSoftware/mvote)
 
 **mPile**: card sorting. Each participant groups cards on their own
 phone or computer. Responses are sealed in the participant's browser, so the
 site stores only data it cannot read, and deletes it when the session is
 closed or expires.
-Live: [mpile.app](https://mpile.app)
+Live: [mpile.app](https://mpile.app) · Source: [MalverdeSoftware/mpile](https://github.com/MalverdeSoftware/mpile)
 
-Both are early releases.
+Both are early releases. They share foundations in
+[MalverdeSoftware/malverdesoftware](https://github.com/MalverdeSoftware/malverdesoftware).
 
 ## Related research
 
@@ -32,9 +33,12 @@ Both are early releases.
 
 ## Source code and licensing
 
-The goal is a free, open-source release. The license and institutional
-arrangements are pending with Johns Hopkins University, so the source
-repositories are private for now. Reviewers can request access.
+mVote, mPile and the shared packages are free, open-source software under the
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), copyright
+The Johns Hopkins University. They were developed by Valentín Quiroz de la
+Sierra and Marissa Ledesma, with support from the National Institute on Drug
+Abuse of the National Institutes of Health under Award Number K99DA066943. Each
+repository's README says how to cite it.
 
 Research data is governed separately from the software, by the communities
 and university partners responsible for each activity.
